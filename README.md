@@ -29,6 +29,14 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi53423&show_icons=true&locale=en&layout=compact&theme=react" alt="mehedi53423" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mehedi53423&show_icons=true&locale=en&theme=react" alt="mehedi53423" /></p>
+## :chart_with_upwards_trend: Current Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi53423&theme=react" alt="mehedi53423" /></p>
+<br/>
+
+<p align="center">
+  &nbsp;<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mehedi53423&show_icons=true&locale=en&border_radius=2&theme=react" alt="mehedi53423" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi53423&theme=react" alt="mehedi53423" />
+</p>
