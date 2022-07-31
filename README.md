@@ -176,7 +176,7 @@
 
 <br/>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi53423&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react" alt="mehedi53423" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi53423&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react" alt="mehedi53423" /></p>
 
 ## :chart_with_upwards_trend: Current Stats
 
