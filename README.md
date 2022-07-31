@@ -23,7 +23,7 @@
    </a>
 </p>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">📭 Connect With Me : </h2>
 
 <br/>
 
@@ -65,7 +65,7 @@
 
 <br/>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">🛠 Languages & Tools : </h2>
 
 <br/>
 
@@ -172,13 +172,13 @@
 
 <br/>
 
-## :computer: Most Used Languages
+<h2 align="center">💻 Most Used Languages : </h2>
 
 <br/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi53423&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react" alt="mehedi53423" /></p>
 
-## :chart_with_upwards_trend: Current Stats
+<h2 align="center">📈 Current Stats</h2>
 
 <br/>
 
