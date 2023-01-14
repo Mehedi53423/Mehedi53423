@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm a MERN Stack, Flutter, ASP.NET Core, MEAN Stack & SQA Engineer from Bangladesh</h2>
 
-<p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" loop=infinite></p>
+<p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 
 <br/>
 
