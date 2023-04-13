@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5BF77D&width=435&lines=I'm+Md.+Mehedi+Hasan" alt="Typing SVG" /></a></p>
 
-<h2 align="center">I'm a MERN Stack, Flutter, ASP.NET Core, MEAN Stack & SQA Engineer from Bangladesh</h2>
+<h2 align="center">I'm a MERN Stack, Flutter, ASP.NET Core & MEAN Stack Developer from Bangladesh</h2>
 
 <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 
