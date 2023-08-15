@@ -1,10 +1,16 @@
+<!-- Typing Start -->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5BF77D&width=435&lines=Hi+👋" alt="Md. Mehedi Hasan" /></a></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5BF77D&width=435&lines=I'm+Md.+Mehedi+Hasan" alt="Typing SVG" /></a></p>
+<!-- Typing End -->
 
+<!-- Message Start -->
 <h2 align="center">I'm a MERN Stack, Flutter, ASP.NET Core & MEAN Stack Developer from Bangladesh</h2>
+<!-- Message End -->
 
+<!-- Image Start -->
 <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<!-- Image End -->
 
 <br/>
 
@@ -16,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mehedi53423" alt="mehedi53423" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mehedi53423&margin-w=30&margin-h=30&row=2&column=4" alt="mehedi53423" />
    </a>
 </p>
 
@@ -316,6 +322,9 @@
     <a href="https://github.com/Mehedi53423?tab=repositories">
       <img src="https://skillicons.dev/icons?i=netlify" Title="Netlify" /> 
     </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=vercel" Title="Vercel" /> 
+    </a>
   </p>
 </div>
 <!-- DevOps, Hosting, Testing & Monitoring Tools List End -->
@@ -347,6 +356,9 @@
     </a>
     <a href="https://github.com/Mehedi53423?tab=repositories">
       <img src="https://skillicons.dev/icons?i=raspberrypi" Title="Raspberry Pi" /> 
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=linux" Title="Linux" /> 
     </a>
   </p>
 </div>
