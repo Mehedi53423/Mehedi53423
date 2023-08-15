@@ -30,41 +30,68 @@
 
 <br/>
 
+<!-- Social Media Badge Start -->
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Mehedi53423">
+      <img src="https://img.shields.io/badge/Social Medias:-brightgreen" />
+    </a>
+  </p>
+</div>
+<!-- Social Media Badge End -->
+
+<!-- Social Media List Start -->
 <p align="center">
+   <a href="https://fb.com/mehedi53423" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mehedi53423" height="48" width="50" Title="Facebook" />
+  </a>
   <a href="https://twitter.com/mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedi53423" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="mehedi53423" Title="Twitter" />
+  </a>
+   <a href="https://instagram.com/mehedi53423" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mehedi53423" Title="Instagram" />
   </a>
   <a href="https://linkedin.com/in/mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi53423" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/8549274" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8549274" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehedi53423" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi53423" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedi53423" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/mehedihasan5" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehedihasan5" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehedi53423" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mehedi53423" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@mehedi53423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mehedi53423" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mehedi53423/profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mehedi53423/profile" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mehedi53423" Title="LinkedIn" />
   </a>
 </p>
+<!-- Social Media List End -->
+
+<!-- Learning Platforms Badge Start -->
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Mehedi53423">
+      <img src="https://img.shields.io/badge/Learning Platforms:-brightgreen" />
+    </a>
+  </p>
+</div>
+<!-- Learning Platforms Badge End -->
+
+<!-- Learning Platforms List Start -->
+<p align="center">
+   <a href="https://stackoverflow.com/users/8549274" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="8549274" Title="StackOverflow" />
+  </a>
+  <a href="https://kaggle.com/mehedi53423" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehedi53423" height="48" width="40" Title="Kaggle" />
+  </a>
+  <a href="https://www.hackerrank.com/mehedi53423" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehedi53423" height="48" width="40" Title="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/mehedi53423" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mehedi53423" height="48" width="40" Title="CodeForces" />
+  </a>
+  <a href="https://www.hackerearth.com/@mehedi53423" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mehedi53423" height="48" width="40" Title="HackerEarth" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/mehedi53423/profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mehedi53423/profile" height="48" width="40" Title="GeeksForGeeks" />
+  </a>
+  <a href="https://www.youtube.com/c/mehedihasan5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehedihasan5" height="48" width="40" Title="Youtube" />
+  </a>
+</p>
+<!-- Learning Platforms List End -->
 
 <br/>
 
@@ -235,9 +262,12 @@
 </div>
 <!-- Development Tools Badge End -->
 
-<!-- Development Tools Badge Start -->
+<!-- Development Tools List Start -->
 <div align="center">
   <p align="center">
+    <a href="https://github.com/dawidolko?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" /> 
+    </a>
     <a href="https://github.com/dawidolko?tab=repositories">
       <img src="https://skillicons.dev/icons?i=git" title="Git" /> 
     </a>
@@ -252,7 +282,7 @@
     </a>
   </p>
 </div>
-<!-- Development Tools Badge Start -->
+<!-- Development Tools List Start -->
 
 <h2 align="center">💻 Most Used Languages : </h2>
 
