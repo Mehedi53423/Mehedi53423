@@ -109,7 +109,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -174,6 +174,85 @@
 </p>
 
 <br/>
+
+<!-- Languages Badge Start -->
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Mehedi53423">
+      <img src="https://img.shields.io/badge/Languages:-brightgreen" />
+    </a>
+  </p>
+</div>
+<!-- Languages Badge End -->
+
+<!-- Languages List Start -->
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=c" title="C"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=cs" title="CSharp"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=py" title="Python"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScripy"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=dart" title="Dart"/>
+    </a>
+    <a href="https://github.com/Mehedi53423?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+    </a>
+  </p>
+</div>
+<!-- Languages List End -->
+
+<!-- Development Tools Badge Start -->
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Mehedi53423">
+      <img src="https://img.shields.io/badge/Development Tools:-brightgreen" />
+    </a>
+  </p>
+</div>
+<!-- Development Tools Badge End -->
+
+<!-- Development Tools Badge Start -->
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/dawidolko?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=git" title="Git" /> 
+    </a>
+    <a href="https://github.com/dawidolko?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=visualstudio" Title="Visual Studio" /> 
+    </a>
+    <a href="https://github.com/dawidolko?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=vscode" Title="Visual Studio Code" /> 
+    </a>
+    <a href="https://github.com/dawidolko?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=idea" Title="IntelliJ IDEA" /> 
+    </a>
+  </p>
+</div>
+<!-- Development Tools Badge Start -->
 
 <h2 align="center">💻 Most Used Languages : </h2>
 
