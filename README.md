@@ -41,19 +41,39 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack software engineer from **Bangladesh** with hands-on experience designing and shipping enterprise **ERP, CRM & SaaS** products at scale. My core stack is **ASP.NET Core + Angular** for web platforms and **Flutter** for cross-platform mobile apps.
+I build enterprise software that businesses depend on daily — from multi-tenant SaaS ERP platforms serving **1M+ users** to ISP billing systems running Bangladesh's internet infrastructure. My core stack is **ASP.NET Core + Angular** for web and **Flutter** for cross-platform mobile.
 
-I've shipped **8 production systems** across retail, fashion, ISP, vehicle tracking, HRM, and CRM domains — with deep domain expertise in **Sales, Purchase, Manufacturing, Inventory, E-commerce, POS, Accounting & HRM** modules.
+**What I work on:**
 
-```text
-🏢 Currently      Mid-Level Software Engineer @ Softifybd Limited
-📅 Experience     3+ Years in Enterprise ERP & SaaS
-🌱 Growing into   System architecture & scalable API design
-🎯 Goal           Senior Software Engineer
-🌍 Location       Dhaka, Bangladesh
-💼 Open to        Senior engineering roles & collaborations
-📬 Contact        mehedi53423@gmail.com
-```
+- Architect and deliver multi-tenant SaaS systems end-to-end: database schema, API design, Angular UI, and Flutter mobile
+- Build real-time features with SignalR, async messaging with RabbitMQ, distributed caching with Redis, and background scheduling with Hangfire
+- Own full delivery across complex ERP domains — Sales, Purchase, Inventory, Manufacturing, Accounting, HRM & ISP billing
+- Design systems for environments where correctness and uptime aren't optional
+
+<table width="100%">
+  <tr>
+    <td>🏢 <b>Currently</b></td>
+    <td>Mid-Level Software Engineer @ Softifybd Limited</td>
+    <td>🎯 <b>Goal</b></td>
+    <td>Senior Software Engineer</td>
+  </tr>
+  <tr>
+    <td>📦 <b>Shipped</b></td>
+    <td>8 production systems · 3+ years</td>
+    <td>🌍 <b>Location</b></td>
+    <td>Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td>🔬 <b>Deepening</b></td>
+    <td>DDD · CQRS · Clean Architecture · Distributed systems</td>
+    <td>💼 <b>Open to</b></td>
+    <td>Senior roles & technical collaborations</td>
+  </tr>
+  <tr>
+    <td>📬 <b>Contact</b></td>
+    <td colspan="3">mehedi53423@gmail.com</td>
+  </tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:5BF77D&height=2" />
 
@@ -89,6 +109,36 @@ I've shipped **8 production systems** across retail, fashion, ISP, vehicle track
     <td><img src="https://img.shields.io/badge/Internship-orange?style=flat-square" /></td>
   </tr>
 </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:5BF77D&height=2" />
+
+## 🎓 Education & Certifications
+
+<table width="100%">
+  <tr>
+    <th align="left" colspan="3">
+      🎓 &nbsp;<a href="https://rpsu.ac.bd/" target="_blank"><b>R. P. Shaha University</b></a> &nbsp;·&nbsp; Narayanganj, Bangladesh
+    </th>
+  </tr>
+  <tr>
+    <td width="220"><b>Graduated 2022</b></td>
+    <td><b>Bachelor of Science — Computer Science & Engineering (CSE)</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/B.Sc%20CSE-0e75b6?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**📜 Certifications**
+
+| Certificate | Issuer | Issued | Credential ID |
+|---|---|---|---|
+| **ASP.NET Crash Course** | Ostad | Jan 2024 | `C10346` |
+| **UI UX Design Fundamentals** | Ostad | Jan 2025 | `C19073` |
+| **Fundamentals of Python for Web Development** | Ostad | Dec 2024 | `C18954` |
+| **SQL (Basic) Certificate** | HackerRank | Apr 2023 | `B42A4F40C94C` |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:5BF77D&height=2" />
 
@@ -195,56 +245,69 @@ Enterprise ERP modules I have designed, built, and shipped in production systems
 
 ## 🛠️ Tech Stack
 
-**Primary Stack**
+<p align="center"><b>Primary Stack</b></p>
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%208%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular%2018--22-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%208%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/Angular%2018--22-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
-**Also Proficient In**
+<p align="center"><b>Also Proficient In</b></p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
 
-**Databases**
+<p align="center"><b>Databases</b></p>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-**CSS Frameworks**
+<p align="center"><b>UI & Styling</b></p>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-**Backend Services & Infrastructure**
+<p align="center"><b>Backend Services & Infrastructure</b></p>
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-404040?style=for-the-badge&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+  <img src="https://img.shields.io/badge/Hangfire-404040?style=for-the-badge&logoColor=white" alt="Hangfire" />
+</p>
 
-**Tools & DevOps**
+<p align="center"><b>Tools & DevOps</b></p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=microsoftvisualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=microsoftvisualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white" alt="Zabbix" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:5BF77D&height=2" />
 
