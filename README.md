@@ -314,7 +314,7 @@ Enterprise ERP modules I have designed, built, and shipped in production systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi53423&hide_border=true&theme=react" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mehedi53423&hide_border=true&theme=react" alt="GitHub Streak" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:5BF77D&height=2" />
